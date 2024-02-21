@@ -1,0 +1,101 @@
+{
+  "Казахстан": {
+    "Акмолинская область": [
+      {"name": "Кокшетау", "value": "kokshetau"},
+      {"name": "Астана", "value": "astana"},
+      {"name": "Акколь", "value": "akkol"},
+      {"name": "Атбасар", "value": "atbasar"},
+      {"name": "Макинск", "value": "makinsk"},
+      {"name": "Щучинск", "value": "schuchinsk"}
+    ],
+    "Актюбинская область": [
+      {"name": "Актобе", "value": "aktobe"},
+      {"name": "Алга", "value": "alga"},
+      {"name": "Хромтау", "value": "khromtau"},
+      {"name": "Кандыагаш", "value": "kandyagash"},
+      {"name": "Шалкар", "value": "shalkar"}
+    ],
+    "Алматинская область": [
+      {"name": "Алматы", "value": "almaty"},
+      {"name": "Талгар", "value": "talgar"},
+      {"name": "Каскелен", "value": "kaskelen"},
+      {"name": "Текели", "value": "tekeli"},
+      {"name": "Капчагай", "value": "kapchagai"},
+      {"name": "Талдыкорган", "value": "taldykorgan"}
+    ],
+    "Атырауская область": [
+      {"name": "Атырау", "value": "atyrau"},
+      {"name": "Кульсары", "value": "kulsary"},
+      {"name": "Макат", "value": "makat"},
+      {"name": "Жылыой", "value": "zhylkeldy"}
+    ],
+    "Восточно-Казахстанская область": [
+      {"name": "Усть-Каменогорск", "value": "ust-kamenogorsk"},
+      {"name": "Семей", "value": "semey"},
+      {"name": "Аягоз", "value": "ayagoz"},
+      {"name": "Алтай", "value": "altai"},
+      {"name": "Зайсан", "value": "zaysan"}
+    ],
+    "Жамбылская область": [
+      {"name": "Тараз", "value": "taraz"},
+      {"name": "Шу", "value": "shu"},
+      {"name": "Мерке", "value": "merke"},
+      {"name": "Жанатас", "value": "zhanatas"},
+      {"name": "Каратау", "value": "karatau"}
+    ],
+    "Западно-Казахстанская область": [
+      {"name": "Уральск", "value": "uralsk"},
+      {"name": "Актобе", "value": "aktobe"},
+      {"name": "Атырау", "value": "atyrau"},
+      {"name": "Аральск", "value": "aralsk"},
+      {"name": "Кандыагаш", "value": "kandyagash"}
+    ],
+    "Карагандинская область": [
+      {"name": "Караганда", "value": "karaganda"},
+      {"name": "Темиртау", "value": "temirtau"},
+      {"name": "Сарань", "value": "saran"},
+      {"name": "Жезказган", "value": "jezkazgan"},
+      {"name": "Балхаш", "value": "balkhash"}
+    ],
+    "Костанайская область": [
+      {"name": "Костанай", "value": "kostanay"},
+      {"name": "Рудный", "value": "rudny"},
+      {"name": "Лисаковск", "value": "lisakovsk"},
+      {"name": "Аркалык", "value": "arkalyk"},
+      {"name": "Джетыгара", "value": "zhetigara"}
+    ],
+    "Кызылординская область": [
+      {"name": "Кызылорда", "value": "kyzylorda"},
+      {"name": "Шиели", "value": "shieli"},
+      {"name": "Байконур", "value": "baikonur"},
+      {"name": "Арыс", "value": "arys"},
+      {"name": "Жанакорган", "value": "zhanakorgan"}
+    ],
+    "Мангистауская область": [
+      {"name": "Актау", "value": "aktau"},
+      {"name": "Жанаозен", "value": "zhanaozen"},
+      {"name": "Форт-Шевченко", "value": "fort-shevchenko"}
+    ],
+    "Павлодарская область": [
+      {"name": "Павлодар", "value": "pavlodar"},
+      {"name": "Аксу", "value": "aksu"},
+      {"name": "Экибастуз", "value": "ekibastuz"},
+      {"name": "Качирск", "value": "kachirsk"},
+      {"name": "Щербакты", "value": "shcherbakty"}
+    ],
+    "Северо-Казахстанская область": [
+      {"name": "Петропавловск", "value": "petropavlovsk"},
+      {"name": "Кокшетау", "value": "kokshetau"},
+      {"name": "Риддер", "value": "ridder"},
+      {"name": "Тайынша", "value": "tayynsha"},
+      {"name": "Сарыагаш", "value": "saryagash"}
+    ],
+    "Туркестанская область": [
+      {"name": "Туркестан", "value": "turkestan"},
+      {"name": "Шымкент", "value": "shymkent"},
+      {"name": "Жетысай", "value": "zhetysay"},
+      {"name": "Кентау", "value": "kentau"},
+      {"name": "Сарыагач", "value": "saryagach"}
+    ]
+  }
+}
